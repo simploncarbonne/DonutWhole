@@ -24,7 +24,7 @@ Utilisation concrète de CSS.
 ## Livrable.s
     • Le projet zippé, comprenant l’ensemble des fichiers nécessaires pour visualiser la page sur n’importe quel poste.
 
-> DeadLine 26.06.2019 à 23h59
+> DeadLine 30.06.2019 à 23h59
 
 > A envoyer par mail :  simplon_stgau_formateurs@framalistes.org
 
