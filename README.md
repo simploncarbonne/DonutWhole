@@ -37,17 +37,17 @@ graphique jointe à l’identique. Vous n’avez pas le droit d’ajouter des s�
 Vous travaillerez sur le fichier styles.css se trouvant dans le dossier css.  
 Votre référence est le fichier screenshot.png.   
 
-Vous ferez marcher votre bon sens pour reproduire la charte graphique et utiliserez un outil comme Gimp pour faire les mesures nécessaires.  
+Vous ferez marcher votre bon sens pour reproduire la charte graphique et utiliserez un outil comme Gimp pour faire les mesures nécessaires.   
 Notes :
-• vous devez utiliser les images fournies pour reproduire la charte graphique
-• vous devez utiliser la palette de couleurs présente tout en haut du fichier styles.css
-• vous n’ajouterez aucun sélecteur, aucune classe
-• vous n’en supprimerez pas non plus
-• vous ne modifierez pas le fichier HTML, ni le fichier normalize.css
-• la police de caractère par défaut est 'Open Sans'
-• les titres de niveau 1 et 2 utilisent la police de caractère 'Love Ya Like A Sister’
-• quand le logo est survolé, il se produit un effet (observez les 2 images fournies pour le logo)
-• soyez attentifs aux liens survolés, notamment pour le menu
+* vous devez utiliser les images fournies pour reproduire la charte graphique
+* vous devez utiliser la palette de couleurs présente tout en haut du fichier styles.css
+* vous n’ajouterez aucun sélecteur, aucune classe
+* vous n’en supprimerez pas non plus
+* vous ne modifierez pas le fichier HTML, ni le fichier normalize.css
+* la police de caractère par défaut est 'Open Sans'
+* les titres de niveau 1 et 2 utilisent la police de caractère 'Love Ya Like A Sister’
+* quand le logo est survolé, il se produit un effet (observez les 2 images fournies pour le logo)
+* soyez attentifs aux liens survolés, notamment pour le menu
 
 ## Bonus
     1. La page doit être visible sur internet.
